@@ -8,7 +8,7 @@
   
 # : Academic Status 
 <div>
-<div style="display:inline-block;vertical-align:top;">
+<div style="float: left">
     <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 />
 </div>
 <div>
