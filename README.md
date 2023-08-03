@@ -16,6 +16,6 @@
 
 # : My SNS
 ## : My Blog
-### : blog.naver.com/hiccupkw
+### : https://blog.naver.com/hiccupkw
 ## My Instagram 
 ### : https://www.instagram.com/?next=%2F
