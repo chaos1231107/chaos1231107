@@ -10,6 +10,7 @@
 
 <div style="float: left">
     <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 style="vertical-align:middle;">
+    <span style="margin-top:20px;font-size:12px;" > 2022.3.2 ~ : Graduated Bundang Junang High School <br/> </span><br>
     <span style="margin-top:20px;font-size:12px;" > 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering</span><br>
   
 </div>
