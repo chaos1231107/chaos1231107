@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black">
   <img src="https://img.shields.io/badge/Rasberri Pi-A22846?style=for-the-badge&logo=Rasberri Pi&logoColor=black">
   
-# : Academic Status <br/> ![image](https://github.com/chaos1231107/chaos1231107/assets/136959177/ec665f10-0332-4cff-bc31-d0dbd030e2b6)
+# : Academic Status 
 <div style="display:inline-block;vertical-align:top;">
     <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100>
 </div>
