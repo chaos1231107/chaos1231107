@@ -7,15 +7,16 @@
   <img src="https://img.shields.io/badge/Rasberri Pi-A22846?style=for-the-badge&logo=Rasberri Pi&logoColor=black">
   
 # : Academic Status 
+<div>
 <div style="display:inline-block;vertical-align:top;">
-    <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 alt="img"/>
+    <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 />
 </div>
-<div style="display:inline-block;">
+<div>
     <p>
       eeee
     </p>
 </div>
-
+</div>
 ## : 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering
 ## : Graduated Bundang Jungang High School (2022)
 
@@ -24,7 +25,7 @@
 
 # : Award Career
 ## : The Grand Prize Award, By Ministry of Education / Competition held by Korea Foundation for Science and Creativity(2019)
-### : Name Of My Research : Study Of Angle Operating System Of solar cells through PID control algorithm.
+### : Name Of My Research : Study Of Angle Operating System of solar cells through PID control algorithm.
 
 # : My Acitvity
 ## : Attending an academy which was held in JeJu-Island, The 60th Korea Society of Aeronautics Engineering / 2023 Spring Conference
