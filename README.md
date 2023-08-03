@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black">
   <img src="https://img.shields.io/badge/Rasberri Pi-A22846?style=for-the-badge&logo=Rasberri Pi&logoColor=black">
   
-# : Academic Status ![image](https://github.com/chaos1231107/chaos1231107/assets/136959177/ec665f10-0332-4cff-bc31-d0dbd030e2b6)
+# : Academic Status <br/> ![image](https://github.com/chaos1231107/chaos1231107/assets/136959177/ec665f10-0332-4cff-bc31-d0dbd030e2b6)
 
 ## : 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering
 ## : Graduated Bundang Jungang High School (2022)
