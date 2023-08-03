@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=black"> <br/>
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black">
-  <img src="https://img.shields.io/badge/Raspberri Pi-A22846?style=for-the-badge&logo=Raspberri Pi&logoColor=black">
+  <img src="https://img.shields.io/badge/RaspberriPi-A22846?style=for-the-badge&logo=RaspberriPi&logoColor=black">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=black">
   
 # : Academic Status 
