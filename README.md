@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chaos1231107
 
-# : Academic Status
-<br/>
-## : 2022.3.2 ~ : Gachon University / Department of smartfactory engineering & Electronic Engineering]
+# : Academic Status <br/>
+## : 2022.3.2 ~ : Gachon University / Department of smartfactory engineering & Electronic Engineering
 <br/>
 ## : Graduated Bundang Jungang High school (2021)
 
