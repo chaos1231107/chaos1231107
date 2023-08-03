@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Rasberri Pi-A22846?style=for-the-badge&logo=Rasberri Pi&logoColor=black">
   
 # : Academic Status 
-public/img/logo_white/003. 가천대학교_W.png
+# : git public/img/logo_white/003. 가천대학교_W.png
 ## : 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering
 ## : Graduated Bundang Jungang High School (2022)
 
