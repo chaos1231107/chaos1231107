@@ -7,6 +7,15 @@
   <img src="https://img.shields.io/badge/Rasberri Pi-A22846?style=for-the-badge&logo=Rasberri Pi&logoColor=black">
   
 # : Academic Status <br/> ![image](https://github.com/chaos1231107/chaos1231107/assets/136959177/ec665f10-0332-4cff-bc31-d0dbd030e2b6)
+<img src="https://github.com/HaeIn2021/collection/blob/main/concat.png?raw=true" width = 350 height = 200>
+<div style="display:inline-block;vertical-align:top;">
+    <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 350 height = 200>
+</div>
+<div style="display:inline-block;">
+    <p>
+    Here goes the text content.
+    </p>
+</div>
 
 ## : 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering
 ## : Graduated Bundang Jungang High School (2022)
