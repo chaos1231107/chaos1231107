@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @chaos1231107
-
+- 👋 Hi, I’m Park Keon Woo
 # : Academic Status 
 ## : 2022.3.2 ~ : Gachon University / Department of Mechanical Smart Industrial Engineering & Electronic Engineering
 ## : Graduated Bundang Jungang High School (2022)
