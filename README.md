@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Rasberri Pi-A22846?style=for-the-badge&logo=Rasberri Pi&logoColor=black">
   
 # : Academic Status 
-<h1> ## : 2022.3.2 ~ : Gachon University / Department of Mechanical Smart Industrial Engineering & Electronic Engineering</h1>
-<h1></h1>## : Graduated Bundang Jungang High School (2022)
+## : 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering
+## : Graduated Bundang Jungang High School (2022)
 
 # : My Affliation
 ## Member of Goat Rocket Club(Gachon University)
