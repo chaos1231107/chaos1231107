@@ -5,7 +5,7 @@
 ## : Graduated Bundang Jungang High School (2022)
 
 # : My Affliation
-## Member of Goat rocket club(Gachon University)
+## Member of Goat Rocket Club(Gachon University)
 
 # : Award Career
 ## : The Grand Prize Award, By Ministry of Education / Competition held by Korea Foundation for Science and Creativity(2019)
