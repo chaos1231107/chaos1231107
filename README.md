@@ -8,7 +8,7 @@
 ## Member of Goat rocket club(Gachon University)
 
 # : Award Career
-## : The Grand Prize Award, By Ministry of Education / Copetition held by Korea Foundation for Science and Creativity(2019)
+## : The Grand Prize Award, By Ministry of Education / Competition held by Korea Foundation for Science and Creativity(2019)
 ### : Name Of My Research : Study Of angle operating System Of solar cells through PID control Algorithm.
 
 # : My Acitvity
