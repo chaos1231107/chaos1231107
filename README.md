@@ -3,7 +3,8 @@
 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white"> <br/>
-  <h1><img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black">
+  <h1><img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black"></h1>
+  <img src="https://img.shields.io/badge/Rasberri Pi-A22846?style=for-the-badge&logo=Rasberri Pi&logoColor=white">
   
 # : Academic Status 
 ## : 2022.3.2 ~ : Gachon University / Department of Mechanical Smart Industrial Engineering & Electronic Engineering
