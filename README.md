@@ -13,12 +13,12 @@
 </div>
 <div>
     <p>
-      eeee
+      ## : 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering
+## : Graduated Bundang Jungang High School (2022)
     </p>
 </div>
 </div>
-## : 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering
-## : Graduated Bundang Jungang High School (2022)
+
 
 # : My Affliation
 ## Member of Goat Rocket Club(Gachon University)
