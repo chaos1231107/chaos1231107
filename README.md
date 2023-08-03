@@ -2,7 +2,7 @@
 
 # : Academic Status 
 ## : 2022.3.2 ~ : Gachon University / Department of smartfactory engineering & Electronic Engineering
-## : Graduated Bundang Jungang High school (2021)
+## : Graduated Bundang Jungang High school (2022)
 
 # : My Affliation
 ## Member of Goat rocket club(Gachon University)
