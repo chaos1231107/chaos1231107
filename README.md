@@ -22,7 +22,7 @@
 
 # : Award Career
 ## : The Grand Prize Award, By Ministry of Education / Competition held by Korea Foundation for Science and Creativity(2019)
-### : Name Of My Research : Study Of Angle Operating System of solar cells through PID control algorithm.
+### : Name of My Research : Study Of Angle Operating System of solar cells through PID control algorithm.
 
 # : My Acitvity
 ## : Attending an academy which was held in JeJu-Island, The 60th Korea Society of Aeronautics Engineering / 2023 Spring Conference
