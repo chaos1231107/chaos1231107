@@ -2,7 +2,7 @@
 
 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white">
   
 # : Academic Status 
 ## : 2022.3.2 ~ : Gachon University / Department of Mechanical Smart Industrial Engineering & Electronic Engineering
