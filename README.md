@@ -12,7 +12,7 @@
 ### : Name Of My Research : Study Of angle operating System Of solar cells through PID control Algorithm.
 
 # : My Acitvity
-## : Attending an academy which was held in JeJu-Island, The 60th Korea Society of Rocket Engineering / 2023 Spring Conference
+## : Attending an academy which was held in JeJu-Island, The 60th Korea Society of Aeronautics Engineering / 2023 Spring Conference
 
 # : My SNS
 ## : My Blog
