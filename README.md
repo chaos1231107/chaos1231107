@@ -20,7 +20,7 @@
 
 
 
-# : My Affliation
+# : My Affiliation
 ## Member of Goat Rocket Club(Gachon University)
 
 # : Award Career
