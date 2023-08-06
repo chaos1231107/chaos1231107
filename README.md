@@ -31,7 +31,5 @@
 ## : Attending an academy which was held in JeJu-Island, The 60th Korea Society of Aeronautics Engineering / 2023 Spring Conference
 
 # : My SNS
-## : My Blog
-### : https://blog.naver.com/hiccupkw
 ## My Instagram 
 ### : https://www.instagram.com/?next=%2F
