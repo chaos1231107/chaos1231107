@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keon-Woo Park
 
- #  Programming langauges, tools, or <br/> microprcessor etc... that I'm studying recently
+ # : Programming langauges, tools, or <br/> microprcessor etc... that I'm studying recently
   <img src="https://img.shields.io/badge/Python-3776aB?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=black">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=blue"><br/>
@@ -10,7 +10,7 @@
   
 
   
-#  Academic Status 
+# : Academic Status 
 
 <div>
     <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 align="left">
