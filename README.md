@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=black">
   <img src="https://img.shields.io/badge/MatLab-EE4C2C?style=for-the-badge&logo=MatLabh&logoColor="orange">
+  <img src ="https://githum.com/chaos1231107/image/blob/main/matlab.png?raw=true" width=10 height=10>
   
   
 
