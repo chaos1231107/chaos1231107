@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Keon-Woo Park
-
 - # : Programming langauges, tools, or <br/> microprcessor etc... that I'm studying recently
  
   <img src="https://img.shields.io/badge/Python-3776aB?style=for-the-badge&logo=python&logoColor=yellow">
