@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Keon-Woo Park
 
 - 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/Python-3776aB?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=black">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=blue"><br/>
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black">
