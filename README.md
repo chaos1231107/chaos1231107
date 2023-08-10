@@ -19,7 +19,7 @@
   
 </div>
 
-# : My Affliation 
+# : My Affiliation 
 ## : Member of Goat Rocket Club
 
 
