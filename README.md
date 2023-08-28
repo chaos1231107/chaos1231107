@@ -9,7 +9,8 @@
   <img src="https://github.com/chaos1231107/images/blob/main/matlab2.PNG?raw=true" width=85 height=27.2>
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-thebadge&logo=MicroPython&logoColor=yellow">
 
-  
+# : IDE skills
+
 # : Academic Status 
 
 <div>
@@ -24,7 +25,7 @@
 
 # : Statistics
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107)](https://github.com/chaos1231107/github-readme-stats)
+ ![chaos1231107's github stats](https://github-readme-stats.vercel.app/api?username=chaos1231107s&show_icons=true&theme=tokyonight)
 
 # : GitHub Status
 
