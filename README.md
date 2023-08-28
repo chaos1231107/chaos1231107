@@ -24,7 +24,6 @@
 ## : Member of Goat Rocket Club
 
 # : Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&theme=cobalt)](https://github.com/chaos1231107)
 
 
 
