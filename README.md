@@ -15,9 +15,10 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=black">
    <img src="https://img.shields.io/badge/googlecolab%20Code-%23007ACC?style=for-the-badge&logo=googlecolab&logoColor=yellow&color=red">
 </div>
+<div style="display: flex; justify-content: space-around;">
 <img src="https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=green">
-
-
+<img src="https://img.shields.io/badge/clion-%23000000?style=for-the-badge&logo=clion&logoColor=green">
+</div>
 
 
 
