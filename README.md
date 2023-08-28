@@ -10,8 +10,11 @@
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-thebadge&logo=MicroPython&logoColor=yellow">
 
 # : IDE skills
-<img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=black">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=black">
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=black">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=black">
+</div>
+
 
 
 
