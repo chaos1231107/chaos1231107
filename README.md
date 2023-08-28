@@ -24,8 +24,7 @@
 ## : Member of Goat Rocket Club
 
 # : Statistics
-[![chaos1231107's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos1231107)](https://github.com/anuraghazra/github-readme-stats)
-
+ github-readme-stats.vercel.app/api/top-langs/?username={chaos1231107}&langs_count=8
 
 
 # : GitHub Status
