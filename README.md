@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-thebadge&logo=MicroPython&logoColor=yellow">
 
 # : IDE skills
- <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=yellow">
+<img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=yellow">
+
 # : Academic Status 
 
 <div>
