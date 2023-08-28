@@ -29,7 +29,7 @@
 
 
 # : GitHub Status
-![chaos1231107's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos1231107&show_icons=true&theme=radical)
+![chaos1231107's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos1231107&show_icons=true&theme=dark)
 
 
 
