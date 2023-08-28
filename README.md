@@ -11,6 +11,8 @@
 
 # : IDE skills
 <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=black">
+<img src="https://img.shields.io/badge/visualstudiocode-%#007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
+
 
 # : Academic Status 
 
