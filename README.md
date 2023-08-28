@@ -13,7 +13,8 @@
 <div style="display: flex; justify-content: space-around;">
     <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=black">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=black">
-    <img src="https://img.shields.io/badge/googlecolab%20Code-%23007ACC?style=for-the-badge&logo=googlecolab&logoColor=orange">
+    <img src="https://img.shields.io/badge/googlecolab%20Code-%23007ACC?style=for-the-badge&logo=googlecolab&logoColor=orange&color=black">
+
 </div>
 
 
