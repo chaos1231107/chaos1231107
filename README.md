@@ -22,9 +22,11 @@
 # : My Affiliation 
 ## : Member of Goat Rocket Club
 
-# : Most Used Languages
+# : Statistics
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107)](https://github.com/chaos1231107/github-readme-stats)</h1>
+
+# : GitHub Status
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos1231107&count_private=true)
 
