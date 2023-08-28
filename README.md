@@ -25,11 +25,11 @@
 
 # : Statistics
 
- ![chaos1231107's github stats](https://github-readme-stats.vercel.app/api?username=chaos1231107s&show_icons=true&theme=tokyonight)
 
 # : GitHub Status
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos1231107&count_private=true)
+ ![chaos1231107's github stats](https://github-readme-stats.vercel.app/api?username=chaos1231107s&show_icons=true&theme=tokyonight)
+
 
 
 
