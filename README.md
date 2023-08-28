@@ -24,8 +24,7 @@
 ## : Member of Goat Rocket Club
 
 # : Statistics
-[![chaos1231107's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos1231107&show_icons=true&theme=radical)](https://github.com/chaos1231107)
-
+[![chaos1231107's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos1231107)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
