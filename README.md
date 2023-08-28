@@ -14,9 +14,8 @@
     <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=black">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=black">
    <img src="https://img.shields.io/badge/googlecolab%20Code-%23007ACC?style=for-the-badge&logo=googlecolab&logoColor=yellow&color=red">
-
-
 </div>
+<img src="https://img.shields.io/badge/PyCharm-%#000000?style=for-the-badge&logo=PyCharm&logoColor=black">
 
 
 
