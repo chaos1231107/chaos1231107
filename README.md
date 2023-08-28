@@ -24,7 +24,7 @@
 
 # : Statistics
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107)](https://github.com/chaos1231107/github-readme-stats)</h1>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107)](https://github.com/chaos1231107/github-readme-stats)
 
 # : GitHub Status
 
