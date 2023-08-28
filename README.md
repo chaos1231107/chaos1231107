@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Keon-Woo Park
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107)](https://github.com/chaos1231107/github-readme-stats)
   # : Programming langauges, tools, or <br/> microprocessors etc... that I'm studying recently
  
   <img src="https://img.shields.io/badge/Python-3776aB?style=for-the-badge&logo=python&logoColor=yellow">
@@ -22,6 +21,8 @@
 
 # : My Affiliation 
 ## : Member of Goat Rocket Club
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107)](https://github.com/chaos1231107/github-readme-stats)
 
 
 
