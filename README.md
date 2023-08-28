@@ -24,7 +24,7 @@
 ## : Member of Goat Rocket Club
 
 # : Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos1231107)](https://github.com/anuraghazra/github-readme-stats)
+[![chaos1231107's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos1231107)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
