@@ -33,7 +33,7 @@
 </div>
 
 # : My Affiliation 
-## : Member of Goat Rocket Club
+## : Member of GOAT(Gachon Organization of Aerospace Technology) Rocket Club
 
 
 # : Statistics
