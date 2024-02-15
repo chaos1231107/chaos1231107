@@ -28,7 +28,7 @@
 <div>
     <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 align="left">
     <span> 2019 ~ 2021 : Graduated Bundang Junang High School(2022) <br/> </span>
-    <span> 2022.3.2 ~ : Gachon University <br/> Department of Mechanical Smart Industrial Engineering & Electronic Engineering</span><br>
+    <span> 2022.3.2 ~ : Gachon University <br/> Department of  Electronic Engineering</span><br>
   
 </div>
 
