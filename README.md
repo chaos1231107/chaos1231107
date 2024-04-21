@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-thebadge&logo=MicroPython&logoColor=yellow">
 
 # : Websites
-   <link rel="icon" type="image/png" sizes="32x32" href="path/to/favicon_32.png" />
-   <link rel="icon" type="image/png" sizes="196x196" href="path/to/favicon_196.png" />
+   [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
 
 
 
