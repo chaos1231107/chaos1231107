@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-thebadge&logo=MicroPython&logoColor=yellow">
 
 # : Websites
-    [![Website](https://https://velog.io/@chaos1231107/posts/favicon.ico)](https://velog.io/@chaos1231107/posts)
+    [![Website](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
+
 
 
 # : IDE skills
