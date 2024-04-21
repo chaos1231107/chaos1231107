@@ -10,7 +10,7 @@
 
 # : Websites
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
-   [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="70" height="70">](https://www.instagram.com/keonwxx._.1107)
+   [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/keonwxx._.1107)
 
 
 
