@@ -48,7 +48,7 @@
 ## : Member of GOAT(Gachon Organization of Aerospace Technology) Rocket Club Avionics Team
    ### GOAT Rocket Club Instagram
    </div>
-   [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/goatrocketclub)
+    <img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67"> (https://www.instagram.com/goatrocketclub)
   </div>
 
 # : Statistics
