@@ -13,6 +13,8 @@
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
 
 # : Studying
+    https://img.shields.io/archlinux/v/:repository/:architecture/:packageName
+
 
 
   
