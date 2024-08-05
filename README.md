@@ -49,6 +49,8 @@
    ### GOAT Rocket Club Instagram
     <img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="30" height="30"> 
    ### GitHub Link
+     [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/깃허브.png" alt="Github" width="67" height="67">](https://github.com/AvionicsOfGOAT)
+
     
 
 # : Statistics
