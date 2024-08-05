@@ -13,7 +13,7 @@
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
 
 # : Studying
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 
 
