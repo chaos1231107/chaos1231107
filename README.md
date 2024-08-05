@@ -50,6 +50,10 @@
    </div>
     <img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="30" height="30"> 
   </div>
+  ### GitHub
+   </div>
+     
+   </div>
 
 # : Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
