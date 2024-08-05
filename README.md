@@ -47,13 +47,9 @@
 # : My Affiliation 
 ## : Member of GOAT(Gachon Organization of Aerospace Technology) Rocket Club Avionics Team
    ### GOAT Rocket Club Instagram
-   </div>
     <img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="30" height="30"> 
-  </div>
-  ### GitHub
-   </div>
-     
-   </div>
+   ### GitHub Link
+    
 
 # : Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
