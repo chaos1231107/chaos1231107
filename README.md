@@ -69,7 +69,7 @@
    <h1><img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="30" height="30">(https://www.instagram.com/goatrocketclub)</h1>
    
    ### GOAT Avionics Team GitHub
-   <h2>img src="https://raw.githubusercontent.com/chaos1231107/images/main/깃허브.png" alt="Github" width="50" height="45">(https://github.com/AvionicsOfGOAT)</h2>
+   <h2> <img src="https://raw.githubusercontent.com/chaos1231107/images/main/깃허브.png" alt="Github" width="50" height="45">(https://github.com/AvionicsOfGOAT)</h2>
   
     
 
