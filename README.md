@@ -24,6 +24,10 @@
     <img src="https://img.shields.io/badge/Operating System-FCC624?style=for-the-badge&logo=Operating System&logoColor=black">
    <img src="https://img.shields.io/badge/Embedded System-3776aB?style=for-the-badge&logo=Embedded System&logoColor=yellow">
   </h2> 
+
+  <h3>
+    <img src="https://img.shields.io/badge/Signals&Systems-FCC624?style=for-the-badge&logo=Operating System&logoColor=black">
+  </h3>
      
    
 
