@@ -49,7 +49,7 @@
    ### GOAT Rocket Club Instagram
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/goatrocketclub)
    ### GOAT Avionics Team GitHub
-   <span> [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/깃허브.png" alt="Github" width="50" height="80">](https://github.com/AvionicsOfGOAT)
+   <span> [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/깃허브.png" alt="Github" width="80" height="50">](https://github.com/AvionicsOfGOAT)
    
     
 
