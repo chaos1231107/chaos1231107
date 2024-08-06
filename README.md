@@ -24,7 +24,7 @@
   <h2>
     <img src="https://img.shields.io/badge/Computer Architecture-EE4C2C?style=for-the-badge&logo=Computer Architecture&logoColor=black">
     <img src="https://img.shields.io/badge/Operating System-FCC624?style=for-the-badge&logo=Operating System&logoColor=black">
-   <img src="https://img.shields.io/badge/Data Analysis-FCC624?style=for-the-badge&logo=Data Analysis&logoColor=black">
+    <img src="https://img.shields.io/badge/Data Analysis-3776AB?style=for-the-badge&logo=Data Analysis&logoColor=black">
   </h2> 
      
  ## Electronic Engineering
