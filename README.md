@@ -12,7 +12,7 @@
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
 
-# : I'm Interested in...Electronic Engineering & Computer Engineering
+# : I'm Interested in...Computer Engineering & Electronic Engineering
 
 ## Computer Engineering
    <h1> 
