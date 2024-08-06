@@ -12,7 +12,7 @@
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
 
-# : I'm Interested in...
+# : I'm Interested in...Electronic Engineering & Computer Engineering
    <h1> 
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -21,6 +21,7 @@
   <h2>
     <img src="https://img.shields.io/badge/Computer Architecture-EE4C2C?style=for-the-badge&logo=Computer Architecture&logoColor=black">
     <img src="https://img.shields.io/badge/Operating System-FCC624?style=for-the-badge&logo=Operating System&logoColor=black">
+   <img src="https://img.shields.io/badge/Embedded System-3776aB?style=for-the-badge&logo=Embedded System&logoColor=yellow">
   </h2> 
      
    
