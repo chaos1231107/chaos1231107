@@ -47,7 +47,7 @@
 # : My Affiliation 
 ## : Member of GOAT(Gachon Organization of Aerospace Technology) Rocket Club Avionics Team
    ### GOAT Rocket Club Instagram
-   [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/goatrocketclub)
+   [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/goatrocketclub)
    ### GOAT Avionics Team GitHub
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/깃허브.png" alt="Github" width="80" height="50">](https://github.com/AvionicsOfGOAT)
    
