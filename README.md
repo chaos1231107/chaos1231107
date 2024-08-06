@@ -12,7 +12,7 @@
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
 
-# : Studying
+# : I'm Interested in...
    <h1> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"></h1>
 
