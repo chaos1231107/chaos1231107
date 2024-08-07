@@ -35,6 +35,8 @@
   </h1>
   <h2>
      <img src="https://img.shields.io/badge/Automatic Control System-3776AB?style=for-the-badge&logo=Automatic Control System&logoColor=black">
+     <img src="https://img.shields.io/badge/Electoronics-%23000000?style=for-the-badge&logo=Electoronics&logoColor=green">
+     
   </h2>
      
    
