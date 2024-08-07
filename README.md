@@ -30,7 +30,7 @@
  ## Electronic Engineering
   <h1>
     <img src="https://img.shields.io/badge/Signals&Systems-FCC624?style=for-the-badge&logo=Signals&Systems&logoColor=black">
-   <img src="https://img.shields.io/badge/Micro Processor-00FA9A?style=for-the-badge&logo=Computer Architecture&logoColor=black">
+   <img src="https://img.shields.io/badge/Micro Processor-00FA9A?style=for-the-badge&logo=Computer Architecture&logoColor=red">
    <img src="https://img.shields.io/badge/Embedded System-3776aB?style=for-the-badge&logo=Embedded System&logoColor=yellow">
   </h1>
   <h2>
