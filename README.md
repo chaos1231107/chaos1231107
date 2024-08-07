@@ -33,6 +33,9 @@
    <img src="https://img.shields.io/badge/Micro Processor-EE4C2C?style=for-the-badge&logo=Computer Architecture&logoColor=black">
    <img src="https://img.shields.io/badge/Embedded System-3776aB?style=for-the-badge&logo=Embedded System&logoColor=yellow">
   </h1>
+  <h2>
+     <img src="https://img.shields.io/badge/Automatic Control System-3776AB?style=for-the-badge&logo=Automatic Control System&logoColor=black">
+  </h2>
      
    
 
