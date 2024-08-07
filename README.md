@@ -18,7 +18,7 @@
    <h1> 
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-   <img src="https://img.shields.io/badge/UNIX System-FCC624?style=for-the-badge&logo=UNIX System&logoColor=black">
+   <img src="https://img.shields.io/badge/UNIX System-FF1493?style=for-the-badge&logo=UNIX System&logoColor=black">
       <img src="https://img.shields.io/badge/AI-3776AB?style=for-the-badge&logo=AI&logoColor=black">
    </h1>
   <h2>
