@@ -73,6 +73,7 @@
     <span> 2023.12.18 ~ 2025.06.17, Republic of Korean Army
     </span><br>
 </div>
+
 # : My Affiliation 
 ## : Member of GOAT(Gachon Organization of Aerospace Technology) Rocket Club Avionics Team
 
