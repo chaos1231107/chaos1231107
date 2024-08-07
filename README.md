@@ -47,9 +47,12 @@
 
 # : IDE skills
 <div style="display: flex; justify-content: space-around;">
+   <h1>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=black">
     <img src="https://img.shields.io/badge/Jupyter Notebook-%23F37626?style=for-the-badge&logo=Jupyter Notebook&logoColor=black">
     <img src="https://img.shields.io/badge/googlecolab-%23007ACC?style=for-the-badge&logo=googlecolab&logoColor=yellow&color=red">
+  </h1>
+    
  
 </div>
 <div style="display: flex; justify-content: space-around;">
