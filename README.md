@@ -69,7 +69,7 @@
 <div>
     <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 align="left">
     <span> 2019 ~ 2021 : Graduated Bundang Jungang High School(2022) <br/> </span>
-    <span> 2022.3.2 ~ : Gachon University <br/> Department of  Electronic Engineering
+    <span> 2022.3.2 ~ : Gachon University <br/> Department of  Electronic Engineering <br/> </span>
     <span> 2023.12.18 ~ 2025.06.17, Republic of Korean Army
     </span><br>
 </div>
