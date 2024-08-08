@@ -90,10 +90,6 @@
 
 # : Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://camo.githubusercontent.com/3e3b21df6684523d87cde76396d63337085e0f4660835521a2106a60a3b3c2f2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e61796f756e673336363926686964653d68746d6c2c637373" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=choas1231107;hide=html,css" style="max-width: 100%;">
-
-# : GitHub Status
 ![chaos1231107's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos1231107&show_icons=true&theme=radical)
 
 
