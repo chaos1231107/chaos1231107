@@ -8,14 +8,14 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=black">
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-thebadge&logo=MicroPython&logoColor=yellow">
 
-# : Websites --> Naver Blog, Instagram, Velog
+#  Websites : Naver Blog, Instagram, Velog
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/naver-blog-logo.png" alt="Blog" width="67" height="67">](https://blog.naver.com/hiccupkw)
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
 
   
 
-# : I'm Interested in...Computer Engineering & Electronic Engineering
+#  I'm Interested in...Computer Engineering & Electronic Engineering
 
 ## Computer Engineering
    <h1> 
