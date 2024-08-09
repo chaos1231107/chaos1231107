@@ -15,21 +15,7 @@
 
   
 
-#  I'm Interested in...Computer Engineering & Electronic Engineering
-
-## Computer Engineering
-   <h1> 
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-   <img src="https://img.shields.io/badge/UNIX System-FF1493?style=for-the-badge&logo=UNIX System&logoColor=black">
-      <img src="https://img.shields.io/badge/AI-3776AB?style=for-the-badge&logo=AI&logoColor=black">
-   </h1>
-  <h2>
-    <img src="https://img.shields.io/badge/Computer Architecture-EE4C2C?style=for-the-badge&logo=Computer Architecture&logoColor=black">
-    <img src="https://img.shields.io/badge/Operating System-FCC624?style=for-the-badge&logo=Operating System&logoColor=black">
-    <img src="https://img.shields.io/badge/Data Analysis-3776AB?style=for-the-badge&logo=Data Analysis&logoColor=black">
-  </h2> 
-     
+#  I'm Interested in...Electronic Engineering & Computer Engineering   
  ## Electronic Engineering
   <h1>
     <img src="https://img.shields.io/badge/Signals&Systems-FCC624?style=for-the-badge&logo=Signals&Systems&logoColor=black">
@@ -43,8 +29,18 @@
      <img src="https://img.shields.io/badge/Electirc Circuits-6799FF?style=for-the-badge&logo=Electric Circuits&logoColor=black">
      
   </h2>
-     
-   
+## Computer Engineering
+   <h1> 
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+   <img src="https://img.shields.io/badge/UNIX System-FF1493?style=for-the-badge&logo=UNIX System&logoColor=black">
+      <img src="https://img.shields.io/badge/AI-3776AB?style=for-the-badge&logo=AI&logoColor=black">
+   </h1>
+  <h2>
+    <img src="https://img.shields.io/badge/Computer Architecture-EE4C2C?style=for-the-badge&logo=Computer Architecture&logoColor=black">
+    <img src="https://img.shields.io/badge/Operating System-FCC624?style=for-the-badge&logo=Operating System&logoColor=black">
+    <img src="https://img.shields.io/badge/Data Analysis-3776AB?style=for-the-badge&logo=Data Analysis&logoColor=black">
+  </h2> 
 
   
 
