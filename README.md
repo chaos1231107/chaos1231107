@@ -90,8 +90,8 @@
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# : dddd
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#141321" stroke-opacity="1"/>
+# GitHub status
+![Park Keonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos1231107&show_icons=true&theme=7CFC00)
 
 
 
