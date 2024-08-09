@@ -29,7 +29,8 @@
      <img src="https://img.shields.io/badge/Electirc Circuits-6799FF?style=for-the-badge&logo=Electric Circuits&logoColor=black">
      
   </h2>
- ## Computer Engineering
+  
+  ## Computer Engineering
    <h1> 
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
