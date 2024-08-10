@@ -74,6 +74,7 @@
    <img src="https://img.shields.io/badge/mac os-7B68EE?style=for-the-badge&logo=mac os&logoColor=blue">
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </h1>
+
 # : About me
 
 <div>
