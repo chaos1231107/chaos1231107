@@ -48,7 +48,7 @@
   
 
 
-# : IDE skills
+# IDE skills
 <div style="display: flex; justify-content: space-around;">
    <h1>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=black">
@@ -63,7 +63,8 @@
 <img src="https://img.shields.io/badge/clion-%23000000?style=for-the-badge&logo=clion&logoColor=green">
 </div>
 
-
+# OS(Operating System)
+<img src="https://img.shields.io/badge/windows-1E90FF?style=for-the-badge&logo=windows&logoColor=yellow">
 
 
 # : About me
