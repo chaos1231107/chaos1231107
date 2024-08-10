@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/clion-%23000000?style=for-the-badge&logo=clion&logoColor=green">
 </div>
 
-# OS(Operating System)
+# OS(Operating System) that I am using
 <h1>
    <img src="https://img.shields.io/badge/windows-6799FF?style=for-the-badge&logo=windows&logoColor=yellow">
    <img src="https://img.shields.io/badge/mac os-7B68EE?style=for-the-badge&logo=mac os&logoColor=blue">
