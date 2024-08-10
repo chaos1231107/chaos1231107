@@ -65,7 +65,7 @@
 
 # OS(Operating System)
 <img src="https://img.shields.io/badge/windows-1E90FF?style=for-the-badge&logo=windows&logoColor=yellow">
-
+<img src="https://img.shields.io/badge/Xos-7B68EE?style=for-the-badge&logo=Xos&logoColor=blue">
 
 # : About me
 
