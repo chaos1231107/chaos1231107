@@ -51,6 +51,7 @@
   </h2> 
 
 ## Aerospace Engineering(Rocket Science)
+  ### 1. Altitude controling algorithm (using PID, Low pass Filter, Kalman filter etc..)
 
 
 # IDE skills
