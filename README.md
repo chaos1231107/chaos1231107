@@ -55,7 +55,7 @@
   ### 2. How to communicate between rocket and ground station without disconnection of packets
   
   ### 3. Simulating and predicting rocket's optimal trajectory by using AI algorithms  
-  ### Related Link : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="40">](https://www.youtube.com/watch?v=hih-yfTcRPw)
+  ### Related Link : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="70">](https://www.youtube.com/watch?v=hih-yfTcRPw)
  
 
 # IDE skills
