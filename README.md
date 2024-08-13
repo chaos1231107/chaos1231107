@@ -20,7 +20,7 @@
 
   
 
-#  I'm Interested in...Electronic Engineering, Computer Engineering, Aerospace Engineering
+#  I'm Interested in...Electronic Engineering, Computer Engineering, Aerospace Engineering(Rocket Science)
  ## Electronic Engineering
   <h1>
     <img src="https://img.shields.io/badge/Signals&Systems-FCC624?style=for-the-badge&logo=Signals&Systems&logoColor=black">
