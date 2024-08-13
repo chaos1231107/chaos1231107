@@ -53,9 +53,10 @@
 ## Aerospace Engineering(Rocket Science)
   ### 1. Altitude controling algorithm (managing and correcting sensor valuess by using PID, Low pass Filter, Kalman filter etc..)
   ### 2. How to communicate between rocket and ground station without disconnection of packets
+  <h1>
   ### 3. Simulating and predicting rocket's optimal trajectory by using AI algorithms  
   [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="67">](https://www.youtube.com/watch?v=hih-yfTcRPw)
-
+   </h1>
 
 # IDE skills
 <div style="display: flex; justify-content: space-around;">
