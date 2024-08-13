@@ -15,7 +15,7 @@
  
 # Websites : Instagram, Naver Blog, Velog
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
-   [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/naver-blog-logo.png" alt="Blog" width="67" height="20">](https://blog.naver.com/hiccupkw)
+   [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/naver-blog-logo.png" alt="Blog" width="67" height="67">](https://blog.naver.com/hiccupkw)
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
 
   
@@ -55,7 +55,7 @@
   ### 2. How to communicate between rocket and ground station without disconnection of packets
   
   ### 3. Simulating and predicting rocket's optimal trajectory by using AI algorithms  
-  ### Related Link : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="67">](https://www.youtube.com/watch?v=hih-yfTcRPw)
+  ### Related Link : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="20">](https://www.youtube.com/watch?v=hih-yfTcRPw)
  
 
 # IDE skills
