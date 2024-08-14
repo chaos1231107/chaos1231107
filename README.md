@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keon-Woo Park
 - The phrase "no pain, no gain" is just one frame created by others. Instead, let’s strive to become those who truly enjoy the journey.
-- 어떤것을 하는 목적보단 그저 낭만을 쫓고 싶은 그런 삶을 살고 싶은 공대생
+- 목적을 쫓기보단 그저 낭만을 쫓고 싶은 그런 삶을 살고 싶은 공대생
   
  # Languages, Tools and Micro Processors
  <h1>
