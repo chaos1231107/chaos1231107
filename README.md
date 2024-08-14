@@ -89,7 +89,7 @@
     </span><br>
 </div>
 
-# I like...listening music
+# I like...listening to music
 ## My favorite song : Old Song(오래된 노래) by Standing Egg
 [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="70">](https://www.youtube.com/watch?v=JVIKowQZEdk)
 
