@@ -76,15 +76,6 @@
     </span><br>
 </div>
 
-# I like...listening to music
-#### My favorite songs : Old Song(오래된 노래) by Standing Egg , 너의 번호를 누르고 by 안녕, Last Dance by BigBang
-#### 오래된 노래 by Standing Egg
-[<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="70">](https://www.youtube.com/watch?v=JVIKowQZEdk)
-#### 너의 번호를 누르고 by 안녕
-[<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="70">](https://www.youtube.com/watch?v=vbbDQvXXGBw)
-#### Last Dance by BigBang
-[<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="70">](https://www.youtube.com/watch?v=--zku6TB5NY)
-
 # My Affiliation 
 ## Member of GOAT(Gachon Organization of Aerospace Technology) Rocket Club Avionics Team
 
