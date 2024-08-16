@@ -41,7 +41,7 @@
   ### 1. Altitude controling algorithm (Managing and correcting sensor values by using PID controling algorithm, Low ass Filter, Kalman filter etc..)
   ### 2. How to communicate between rocket and ground station without disconnection of RF(Radion Frequency) signals & packets
   ### 3. Simulating and predicting aircraft's optimal trajectory by using AI algorithms (Inteligence Denfense System)  
-  #### Related Link about 3 : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="50">](https://www.youtube.com/watch?v=hih-yfTcRPw)
+  #### Related Link about 3 : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="43">](https://www.youtube.com/watch?v=hih-yfTcRPw)
  
 
 # IDE skills
