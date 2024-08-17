@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m Keon-Woo Park
 - The phrase "no pain, no gain" is just one frame created by others. Instead, let’s strive to become those who truly enjoy the journey.
 - 목적을 쫓기보단 그저 낭만을 쫓고 싶은 그런 삶을 살고 싶은 공대생
@@ -39,7 +40,7 @@
 
 ## Aerospace Engineering(Rocket Science)
   ### 1. Altitude controling algorithm (Managing and correcting sensor values by using PID controling algorithm, Low Pass Filter, Kalman Filter etc..)
-  ### 2. How to communicate between rocket and ground station without disconnection of RF(Radion Frequency) signals & packets
+  ### 2. How to communicate between rocket and ground station without disconnection of RF(Radio Frequency) signals & packets
   ### 3. Simulating and predicting aircraft's optimal trajectory by using AI algorithms (Inteligence Denfense System)  
   #### Related Link about 3 : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="43">](https://www.youtube.com/watch?v=hih-yfTcRPw)
  
