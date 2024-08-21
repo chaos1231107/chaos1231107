@@ -2,6 +2,12 @@
 - 👋 Hi, I’m Keon-Woo Park
 - The phrase "no pain, no gain" is just one frame created by others. Instead, let’s strive to become those who truly enjoy the journey.
 - 목적을 쫓기보단 그저 낭만을 쫓고 싶은 그런 삶을 살고 싶은 공대생
+
+# Baekjoon tier
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiccupkw)](https://solved.ac/hiccupkw/)
+
+# Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
  
 # Websites : Instagram, Naver Blog, Velog
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
@@ -44,22 +50,6 @@
   ### 3. Simulating and predicting aircraft's optimal trajectory by using AI algorithms (Inteligence Denfense System)  
   #### Related Link about 3 : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="43">](https://www.youtube.com/watch?v=hih-yfTcRPw)
  
-
-# IDE skills
-<div style="display: flex; justify-content: space-around;">
-   <h1>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=vscode&logoColor=black">
-    <img src="https://img.shields.io/badge/Jupyter Notebook-%23F37626?style=for-the-badge&logo=Jupyter Notebook&logoColor=black">
-    <img src="https://img.shields.io/badge/googlecolab-%23007ACC?style=for-the-badge&logo=googlecolab&logoColor=yellow&color=red">
-  </h1>
-    
- 
-</div>
-<div style="display: flex; justify-content: space-around;">
-<img src="https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=green">
-<img src="https://img.shields.io/badge/clion-%23000000?style=for-the-badge&logo=clion&logoColor=green">
-</div>
-
 # OS(Operating System) that I am using
 <h1>
    <img src="https://img.shields.io/badge/windows-6799FF?style=for-the-badge&logo=windows&logoColor=yellow">
@@ -87,16 +77,6 @@
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/깃허브.png" alt="Github" width="50" height="45">](https://github.com/AvionicsOfGOAT)
   
     
-# Baekjoon tier
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiccupkw)](https://solved.ac/hiccupkw/)
-
-# Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-# GitHub status
-![Park Keonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaos1231107&show_icons=true&theme=blue-green)
-
-
 
 
 
