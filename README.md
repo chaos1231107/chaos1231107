@@ -2,13 +2,12 @@
 - 👋 Hi, I’m Keon-Woo Park
 - The phrase "no pain, no gain" is just one frame created by others. Instead, let’s strive to become those who truly enjoy the journey.
 - 목적을 쫓기보단 그저 낭만을 쫓고 싶은 그런 삶을 살고 싶은 공대생
-
-# Baekjoon tier
+<h1>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiccupkw)](https://solved.ac/hiccupkw/)
-
-# Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
  
+</h1>
+  
 # Websites : Instagram, Naver Blog, Velog
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/naver-blog-logo.png" alt="Blog" width="67" height="67">](https://blog.naver.com/hiccupkw)
