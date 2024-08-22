@@ -60,14 +60,7 @@
   ### 2. How to communicate between rocket and ground station without disconnection of RF(Radio Frequency) signals & packets
   ### 3. Simulating and predicting aircraft's optimal trajectory by using AI algorithms (Inteligence Denfense System)  
   #### Related Link about 3 : [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/yt_1200.png" alt="Youtube" width="67" height="43">](https://www.youtube.com/watch?v=hih-yfTcRPw)
- 
-# OS(Operating System) that I am using
-<h1>
-   <img src="https://img.shields.io/badge/windows-6799FF?style=for-the-badge&logo=windows&logoColor=yellow">
-   <img src="https://img.shields.io/badge/mac os-7B68EE?style=for-the-badge&logo=mac os&logoColor=blue">
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</h1>
-
+  
 # My Affiliation 
 ## Member of GOAT(Gachon Organization of Aerospace Technology) Rocket Club Avionics Team
 
