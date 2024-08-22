@@ -10,6 +10,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&show_icons=true&theme=blue-green" alt="Top Langs" style="vertical-align:middle;"/>
 </a>
 
+# : About me
+
+<div>
+    <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 align="left">
+    <span> 2019 ~ 2021 : Graduated Bundang Jungang High School(2022) <br/> </span>
+    <span> 2022.3.2 ~ : Gachon University, Majoring Electronic Engineering <br/> </span>
+    <span> 2023.12.18 ~ 2025.06.17, Republic of Korean Army at GP(대한민국 최전방 경계 초소,Guard Post, Northernmost point of South Korea, Front Line Guard Forces) Military Police of DMZ(Demilitarized Zone) 
+    </span><br>
+</div>
+
 # Websites : Instagram, Naver Blog, Velog
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/naver-blog-logo.png" alt="Blog" width="67" height="67">](https://blog.naver.com/hiccupkw)
@@ -57,16 +67,6 @@
    <img src="https://img.shields.io/badge/mac os-7B68EE?style=for-the-badge&logo=mac os&logoColor=blue">
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </h1>
-
-# : About me
-
-<div>
-    <img src="https://github.com/chaos1231107/images/blob/main/가천대.svg?raw=true" width = 100 height = 100 align="left">
-    <span> 2019 ~ 2021 : Graduated Bundang Jungang High School(2022) <br/> </span>
-    <span> 2022.3.2 ~ : Gachon University, Majoring Electronic Engineering <br/> </span>
-    <span> 2023.12.18 ~ 2025.06.17, Republic of Korean Army at GP(대한민국 최전방 경계 초소,Guard Post, Northernmost point of South Korea, Front Line Guard Forces) Military Police of DMZ(Demilitarized Zone) 
-    </span><br>
-</div>
 
 # My Affiliation 
 ## Member of GOAT(Gachon Organization of Aerospace Technology) Rocket Club Avionics Team
