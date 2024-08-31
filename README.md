@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Data Analysis-3776AB?style=for-the-badge&logo=Data Analysis&logoColor=black">
   </h2> 
 
-## Aerospace Engineering(Rocket Science) 🚀
+## Aerospace Engineering(Rocket Science) 🚀 🛰️
   ### 1. Altitude controling algorithm (Managing and correcting sensor values by using PID control algorithm, Low Pass Filter, Kalman Filter etc..)
   ### 2. How to communicate between rocket and ground station without disconnection of RF(Radio Frequency) signals & packets
   ### 3. Simulating and predicting aircraft's optimal trajectory by using AI algorithms (Inteligence Denfense System)  
