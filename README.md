@@ -16,7 +16,8 @@
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
 
 #  I'm Interested in...Electronic Engineering, Computer Engineering, Aerospace Engineering(Rocket Science)
- ## Electronic Engineering
+ ## Electronic Engineering ![image](https://github.com/user-attachments/assets/0655d9aa-28c6-4146-b819-94359b9b8e56)
+
   <h1>
     <img src="https://img.shields.io/badge/Signals&Systems-FCC624?style=for-the-badge&logo=Signals&Systems&logoColor=black">
    <img src="https://img.shields.io/badge/Micro Processor-008080?style=for-the-badge&logo=Computer Architecture&logoColor=000000">
@@ -30,7 +31,7 @@
      
   </h2>
   
-  ## Computer Engineering
+  ## Computer Engineering 💻
    <h1> 
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
     <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=black">
@@ -45,7 +46,7 @@
     <img src="https://img.shields.io/badge/Data Analysis-3776AB?style=for-the-badge&logo=Data Analysis&logoColor=black">
   </h2> 
 
-## Aerospace Engineering(Rocket Science)
+## Aerospace Engineering(Rocket Science) 🚀
   ### 1. Altitude controling algorithm (Managing and correcting sensor values by using PID control algorithm, Low Pass Filter, Kalman Filter etc..)
   ### 2. How to communicate between rocket and ground station without disconnection of RF(Radio Frequency) signals & packets
   ### 3. Simulating and predicting aircraft's optimal trajectory by using AI algorithms (Inteligence Denfense System)  
