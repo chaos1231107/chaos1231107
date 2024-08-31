@@ -16,8 +16,7 @@
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
 
 #  I'm Interested in...Electronic Engineering, Computer Engineering, Aerospace Engineering(Rocket Science)
- ## Electronic Engineering ![image](https://github.com/user-attachments/assets/0655d9aa-28c6-4146-b819-94359b9b8e56)
-
+ ## Electronic Engineering ⚡
   <h1>
     <img src="https://img.shields.io/badge/Signals&Systems-FCC624?style=for-the-badge&logo=Signals&Systems&logoColor=black">
    <img src="https://img.shields.io/badge/Micro Processor-008080?style=for-the-badge&logo=Computer Architecture&logoColor=000000">
