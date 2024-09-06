@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&show_icons=true&theme=blue-green" alt="Top Langs" style="vertical-align:middle;"/>
 </a>
 
-# Websites : Instagram, Naver Blog, Velog
+# Websites : Instagram,Velog
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
 
