@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Operating System-FCC624?style=for-the-badge&logo=Operating System&logoColor=black">
     <img src="https://img.shields.io/badge/Data Analysis-3776AB?style=for-the-badge&logo=Data Analysis&logoColor=black">
         <img src="https://img.shields.io/badge/Algorithm-3776AB?style=for-the-badge&logo=Algorithm&logoColor=black">
-        <img src="https://img.shields.io/badge/Data Structure-00FF00?style=for-the-badge&logo=Data Structure&logoColor=black">
+        <img src="https://img.shields.io/badge/Data Structure-00FF00?style=for-the-badge&logo=Data Structure&logoColor=blue">
 
   </h2> 
 
