@@ -1,6 +1,5 @@
 
-- 👋 Hi, I’m Keon-Woo Park
-- INTP
+- 👋 Hi, I’m Keon-Woo Park / INTP (객관적인 분석가, 논리학자 성향)
 - The phrase "no pain, no gain" is just one frame created by others who can't enjoy and love their job.Instead, let’s strive to become those who truly enjoy the journey.
 - 목적을 쫓기보단 그저 낭만을 쫓고 싶은 그런 삶을 살고 싶은 공대생
 - 결과로서 과정을 입증하고 행동으로써 논리를 대변한다
