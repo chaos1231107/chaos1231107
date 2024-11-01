@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=black">
     <img src="https://img.shields.io/badge/Python-3776aB?style=for-the-badge&logo=python&logoColor=yellow">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black">
+    <img src="https://img.shields.io/badge/Ubuntu-e46c6c?style=for-the-badge&logo=ubuntu&logoColor=black">
     <img src="https://img.shields.io/badge/UNIX System-FF1493?style=for-the-badge&logo=UNIX System&logoColor=black">
       <img src="https://img.shields.io/badge/AI-3776AB?style=for-the-badge&logo=AI&logoColor=black">
    </h1>
