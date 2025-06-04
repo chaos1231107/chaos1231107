@@ -15,6 +15,15 @@
 2. Reviewing the paper tiled "RF-Based Human Activity Recognition Using Sinal Adapted Convoulution Neural Network".
 3. Collecting data from the TMS(Thrust Management System) experiment.
 
+## what I am doing
+1. Studying "Data Structure" and "Programming Algorithms".
+2. Solving algorithm problems on "Baekjoon Online Judge".
+
+## What will I do
+1. Rejoin the Avionics team after completing my military service
+2. Studying Computer Architecture and Operating System.
+
+
 ## Activity of Academic Society / Conference / Symposium
 
 ### Activity at GOAT Rocket Club (Aerospace Club)
