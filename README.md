@@ -11,7 +11,7 @@
 </a>
 
 ## What I have done
-1. Deviloping and Implementating a Parchute Deployment Mechanism for a Model Rocket, using a "Moving Average Filter" for sensor data processing.
+1. Developing and Implementating a Parchute Deployment Mechanism for a Model Rocket, using a "Moving Average Filter" for sensor data processing.
 2. Reviewing the paper tiled "RF-Based Human Activity Recognition Using Sinal Adapted Convoulution Neural Network".
 3. Collecting data from the TMS(Thrust Management System) experiment.
 
