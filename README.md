@@ -28,15 +28,15 @@
 
 ### Activity at GOAT Rocket Club (Aerospace Club)
 - **May 24, 2023**  
-  Participated in the **60th Spring Conference of the Korean Society for Propulsion Engineers**  
+   **60th Spring Conference of the Korean Society for Propulsion Engineers**  
   _Venue: Ramada Plaza Hotel, Jeju_
 
 - **August 5, 2023**  
-  Participated in the **21st National Aerospace Science Competition – NURA National University Rocket Conference**  
+   **21st National Aerospace Science Competition – NURA National University Rocket Conference**  
   _Venue: Korea Aerospace Research Institute_
 
 - **December 4, 2023**  
-  Participated in the **32nd National University Rocket Launch Competition**  
+   **32nd National University Rocket Launch Competition**  
   _Venue: Naro Space Center, Korea Aerospace Research Institute, Goheung_
 
 
