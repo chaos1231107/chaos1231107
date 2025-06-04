@@ -10,6 +10,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos1231107&show_icons=true&theme=blue-green" alt="Top Langs" style="vertical-align:middle;"/>
 </a>
 
+## What I have done
+1. Deviloping and Implementating a Parchute Deployment Mechanism for a Model Rocket, using a "Moving Average Filter" for sensor data processing.
+2. Reviewing the paper tiled "RF-Based Human Activity Recognition Using Sinal Adapted Convoulution Neural Network".
+3. Collecting data from the TMS(Thrust Management System) experiment.
+
+## Activity of Academic Society / Conference / Symposium
+## Activity of Academic Society / Conference / Symposium
+
+- **May 24, 2023**  
+  Participated in the **60th Spring Conference of the Korean Society for Propulsion Engineers**  
+  _Venue: Ramada Plaza Hotel, Jeju_
+
+- **August 5, 2023**  
+  Participated in the **21st National Aerospace Science Competition – NURA National University Rocket Conference**  
+  _Venue: Korea Aerospace Research Institute_
+
+- **December 4, 2023**  
+  Participated in the **32nd National University Rocket Launch Competition**  
+  _Venue: Naro Space Center, Korea Aerospace Research Institute, Goheung_
+
+
 
 
 
