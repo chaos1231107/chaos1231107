@@ -16,7 +16,6 @@
 3. Collecting data from the TMS(Thrust Management System) experiment.
 
 ## Activity of Academic Society / Conference / Symposium
-## Activity of Academic Society / Conference / Symposium
 
 - **May 24, 2023**  
   Participated in the **60th Spring Conference of the Korean Society for Propulsion Engineers**  
