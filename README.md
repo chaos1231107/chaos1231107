@@ -20,8 +20,8 @@
 2. Solving algorithm problems on "Baekjoon Online Judge".
 
 ## What will I do
-1. Rejoin the Avionics team after completing my military service
-2. Studying Computer Architecture and Operating System.
+1. Rejoin the "Avionics" team.
+2. Studying "Computer Architecture" and "Operating System".
 
 
 ## Activity of Academic Society / Conference / Symposium
