@@ -15,8 +15,7 @@
    [<img src="https://raw.githubusercontent.com/chaos1231107/images/main/instagram.png" alt="Instagram" width="67" height="67">](https://www.instagram.com/pxx._.1107)
    [![Velog](https://velog.io/favicon.ico)](https://velog.io/@chaos1231107/posts)
    ## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%EB%B6%80-%EB%B0%95%EA%B1%B4%EC%9A%B0-b21a15369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%B0%98%EB%8F%84%EC%B2%B4-           %EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%EB%B6%80-%EB%B0%95%EA%B1%B4%EC%9A%B0-b21a15369/)
 
    
 #  I'm Interested in...Electronic Engineering, Computer Engineering, Aerospace Engineering(Rocket Science)
