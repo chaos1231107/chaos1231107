@@ -17,6 +17,7 @@
 
 ## Activity of Academic Society / Conference / Symposium
 
+### Activity at GOAT Rocket Club (Aerospace Club)
 - **May 24, 2023**  
   Participated in the **60th Spring Conference of the Korean Society for Propulsion Engineers**  
   _Venue: Ramada Plaza Hotel, Jeju_
