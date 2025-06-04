@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Keon-Woo Park / INTP (객관적인 분석가, 논리학자 성향) / Student Of GCU at Department of Electronic Engineering.
+- 👋 Hi, I’m Keon-Woo Park / INTP (An objective analyst with a logic mindset) / Student Of GCU at Department of Electronic Engineering.
 - The phrase "no pain, no gain" is just one frame created by others who can't enjoy and love their job.Instead, let’s strive to become those who truly enjoy the journey.
 - A romantic engineering student.
 
