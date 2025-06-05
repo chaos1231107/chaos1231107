@@ -22,7 +22,7 @@
 ## What will I do
 1. Studying "Computer Architecture" and "Operating System".
 2. Developing Avionics System
-   - ** Developing Electronic circuit of "Avionics System" and Software of "Parachute Deployment System".
+   - ** Developing Electronic circuit of "Avionics System" and Software of "Parachute Deployment System". **
 
 
 ## Activity of Academic Society / Conference / Symposium
