@@ -14,7 +14,7 @@
 2. Reviewing the paper tiled "RF-Based Human Activity Recognition Using Sinal Adapted Convoulution Neural Network".
 3. Collecting data from the TMS(Thrust Management System) experiment.
 
-## what I am doing
+## What I am doing
 1. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
 2. Studying "Data Structure" and "Programming Algorithms".
 3. Solving algorithm problems on "Baekjoon Online Judge".
