@@ -15,7 +15,7 @@
 3. Collecting data from the TMS(Thrust Management System) experiment.
 
 ## what I am doing
-1. Team leader at GOAT(Gachon Organization Of Aerospace Technology) Rocket Club,
+1. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
 2. Studying "Data Structure" and "Programming Algorithms".
 3. Solving algorithm problems on "Baekjoon Online Judge".
 
