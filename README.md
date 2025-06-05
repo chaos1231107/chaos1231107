@@ -15,12 +15,14 @@
 3. Collecting data from the TMS(Thrust Management System) experiment.
 
 ## what I am doing
-1. Studying "Data Structure" and "Programming Algorithms".
-2. Solving algorithm problems on "Baekjoon Online Judge".
+1. Team leader at GOAT(Gachon Organization Of Aerospace Technology) Rocket Club,
+2. 1. Studying "Data Structure" and "Programming Algorithms".
+3. Solving algorithm problems on "Baekjoon Online Judge".
 
 ## What will I do
-1. Rejoin the "Avionics" team.
-2. Studying "Computer Architecture" and "Operating System".
+1. Studying "Computer Architecture" and "Operating System".
+2. Developing Avionics System
+   - ** Developing Electronic circuit of "Avionics System" and Software of "Parachute Deployment System".
 
 
 ## Activity of Academic Society / Conference / Symposium
