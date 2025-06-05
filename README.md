@@ -16,7 +16,7 @@
 
 ## what I am doing
 1. Team leader at GOAT(Gachon Organization Of Aerospace Technology) Rocket Club,
-2. 1. Studying "Data Structure" and "Programming Algorithms".
+2. Studying "Data Structure" and "Programming Algorithms".
 3. Solving algorithm problems on "Baekjoon Online Judge".
 
 ## What will I do
