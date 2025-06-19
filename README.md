@@ -25,7 +25,8 @@
 3. Developing Payload and Avionics System of Model Rocket.
    - ## specifics
    - **Developing Electronic circuit of "Avionics System" and Software of "Parachute Deployment System".**
-   - **Developing "Sensor Value Management System" : Managing and correcting "Error" or "Noise" of "Sensor Value".** 
+   - **Developing "Sensor Value Management System" : Managing and correcting "Error" or "Noise" of "Sensor Value".**
+  
 
 
 ## Activity of Academic Society / Conference / Symposium
