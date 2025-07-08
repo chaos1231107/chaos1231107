@@ -17,8 +17,8 @@
 ## What I am doing
 1. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
 2. Running a YouTube channel named AutoRocket Lab
-3. ring.
-3. Developing Payload and Avionics System of Model Rocket.
+3. Studying Unix/Linux system
+4. Developing Payload and Avionics System of Model Rocket.
    - ## specifics
    - **Developing Electronic circuit of "Avionics System" and Software of "Parachute Deployment System".**
    - **Developing "Sensor Value Management System" : Managing and correcting "Error" or "Noise" of "Sensor Value".**
