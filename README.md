@@ -16,17 +16,17 @@
 
 ## What I am doing
 1. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
-2. Studying "Data Structure" and "Programming Algorithms".
-3. Solving algorithm problems on "Baekjoon Online Judge".
-
-## What will I do
-1. Studying "Computer Architecture" and "Operating System".
-2. Studying Control System Engineering.
+2. Running a YouTube channel named AutoRocket Lab
+3. ring.
 3. Developing Payload and Avionics System of Model Rocket.
    - ## specifics
    - **Developing Electronic circuit of "Avionics System" and Software of "Parachute Deployment System".**
    - **Developing "Sensor Value Management System" : Managing and correcting "Error" or "Noise" of "Sensor Value".**
   
+
+## What will I do
+1. Studying "Computer Architecture" and "Operating System".
+2. Studying Control System Enginee
 
 
 ## Activity of Academic Society / Conference / Symposium
