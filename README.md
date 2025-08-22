@@ -14,7 +14,7 @@
 2. Reviewing the paper tiled "RF-Based Human Activity Recognition Using Sinal Adapted Convoulution Neural Network".
 3. Collecting data from the TMS(Thrust Management System) experiment.
 4. Co-author of a paper on "Enhancing Rocket Flight Stability Using a Hybrid Filter Combining a Kalman Filter and First-Order Low-Pass Filter"
-5. 1. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
+5. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
 6. Running a YouTube channel named AutoRocket Lab
 7. Studying Unix/Linux system
 8. Developing Payload and Avionics System of Model Rocket.
