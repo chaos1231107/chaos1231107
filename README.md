@@ -14,15 +14,17 @@
 2. Reviewing the paper tiled "RF-Based Human Activity Recognition Using Sinal Adapted Convoulution Neural Network".
 3. Collecting data from the TMS(Thrust Management System) experiment.
 4. Co-author of a paper on "Enhancing Rocket Flight Stability Using a Hybrid Filter Combining a Kalman Filter and First-Order Low-Pass Filter"
-## What I am doing
-1. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
-2. Running a YouTube channel named AutoRocket Lab
-3. Studying Unix/Linux system
-4. Developing Payload and Avionics System of Model Rocket.
+5. 1. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
+6. Running a YouTube channel named AutoRocket Lab
+7. Studying Unix/Linux system
+8. Developing Payload and Avionics System of Model Rocket.
    - ## specifics
    - **Developing Electronic circuit of "Avionics System" and Software of "Parachute Deployment System".**
    - **Developing "Sensor Value Management System" : Managing and correcting "Error" or "Noise" of "Sensor Value".**
-  
+   - 
+## What I am doing
+1. Member of control team of GADIS, Automatic Driving Developing Team.
+2. Studying Linux Kernal
 
 ## What will I do
 1. Studying "Computer Architecture" and "Operating System".
