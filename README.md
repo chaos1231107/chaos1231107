@@ -21,10 +21,11 @@
    - ## specifics
    - **Developing Electronic circuit of "Avionics System" and Software of "Parachute Deployment System".**
    - **Developing "Sensor Value Management System" : Managing and correcting "Error" or "Noise" of "Sensor Value".**
-   - 
+   
 ## What I am doing
 1. Member of control team of GADIS, Automatic Driving Developing Team.
-2. Studying Linux Kernal
+2. Studying Linux Kernel
+3. Studying Unix System
 
 ## What will I do
 1. Studying "Computer Architecture" and "Operating System".
