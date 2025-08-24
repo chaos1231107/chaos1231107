@@ -29,7 +29,7 @@
 
 ## What will I do
 1. Studying "Computer Architecture" and "Operating System".
-2. Studying Control System Enginee
+2. Studying Control System Engineering
 
 
 ## Activity of Academic Society / Conference / Symposium
