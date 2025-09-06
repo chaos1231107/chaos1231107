@@ -11,7 +11,7 @@
 
 ## What I have done
 1. Developing and Implementating a Parchute Deployment Mechanism for a Model Rocket, using a "Moving Average Filter" for sensor data processing.
-2. Reviewing the paper tiled "RF-Based Human Activity Recognition Using Sinal Adapted Convoulution Neural Network".
+2. Reviewing the paper titled "RF-Based Human Activity Recognition Using Sinal Adapted Convoulution Neural Network".
 3. Collecting data from the TMS(Thrust Management System) experiment.
 4. Co-author of a paper on "Enhancing Rocket Flight Stability Using a Hybrid Filter Combining a Kalman Filter and First-Order Low-Pass Filter"
 5. Team leader at "Avionics of GOAT"(Gachon Organization Of Aerospace Technology) Rocket Club.
