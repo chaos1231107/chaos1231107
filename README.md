@@ -23,14 +23,15 @@
    - **Developing "Sensor Value Management System" : Managing and correcting "Error" or "Noise" of "Sensor Value".**
    
 ## What I am doing
-1. Member of control team of GADIS, Automatic Driving Developing Team.
-2. Studying Linux Kernel
-3. Studying Unix System
+1. Studying Linux Kernel
+2. Studying Unix System
+3. Developing Simulator for TVC(Thrust Vector Control) Reinforce learning
+4. Studying Extended Kalman Filter(EKF) and Uncented Kalman Filter(UKF) for Non-linear control system
 
 ## What will I do
 1. Studying "Computer Architecture" and "Operating System".
 2. Studying Control System Engineering
-
+3. Studying Unity.
 
 ## Activity of Academic Society / Conference / Symposium
 
